@@ -5,7 +5,7 @@
 	<r:layoutResources/>
 </head>
 <body>
-	<uploadr:demo/>
+	<g:include controller="upload" action="test"/>
 	<r:layoutResources/>
 </body>
 </html>

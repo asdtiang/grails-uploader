@@ -230,4 +230,6 @@ class UploadController {
 		// return false as we do not have a view
 		return false
 	}
+	def test={
+	}
 }
